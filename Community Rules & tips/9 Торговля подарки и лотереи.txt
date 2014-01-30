@@ -1,0 +1,48 @@
+Торговля, подарки и лотереи
+---
+[previewicon=941490;sizeOriginal,inline;header_line.png][/previewicon]
+[h1]Торговля НЕ допускается в любом месте обсуждений или игровых центров, кроме как в подфорумах "Обмен" игровых хабов[/h1]
+Вы можете создать тему [u]в подфоруме "Обмен"[/u] соответствующего Игрового центра в формате, аналогичном этому:
+
+[b][H]Counter-Strike: Global Offensive [W]Offers[/b]
+[H] - что у вас есть
+[W] - что вы хотели бы получить, "Offers" означает "ваши предложения".
+
+Помните, что эти форумы читают люди, знающие разные языки, так что старайтесь писать по-английски.
+
+[i]Внимание![/i] Следующие предметы не могут быть обменены, согласно [url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003]Политике обмена Steam[/url]
+[list][*]Ключи для активации игр
+[*]Реальные/электронные деньги
+[*]Любые другие предметы, которые должны быть переданы вне окна обмена Steam[/list]
+
+Пожалуйста не создавайте предложения с подобными вещами, т.к. такие предложения будут удалены, а вы можете получить блокировку.
+
+[h1]Где я могу торговать?[/h1]
+Есть много неофициальных местах, и много специализированных сайтов третьих сторон. Вот большой список популярных мест для всех видов торговли в Steam.
+
+[h1]Подарки и лотореи[/h1]
+Если вы просто раздаете коды купонов, дополнительные игры или торговые карты, это может быть пропущено, если тема будет закрыта или удалена сразу после того, как раздача закончится. Тем не менее, просьбы к участникам подписаться на Youtube, смотреть живой эфир, и т.д., для участия в раздаче [b]НЕ допускается[/b], является рекламой и будет наказано.
+
+[h1]Официальных торги[/h1]
+[list][*][url=http://steamcommunity.com/market]Рынок Сообщество Steam[/url]
+[*][url=http://steamcommunity.com/groups/tradingcards/discussions]Группа Сообщество Обмена Карточками Steam[/url]
+[*][url=http://forums.steampowered.com/forums/forumdisplay.php?f=1189]Торговля на форуме Steam (SPUF)[/url] (необходимо [*][url=http://forums.steampowered.com/forums/betacheck]привязать связать свой Steam-аккаунт[/url] в течение 7 дней с момента регистрации на форуме)[/list]
+
+[h1]Сторонние сайты[/h1]
+[u]Игры и купоны[/u]
+[list][*][url=http://steamexchange.com/]Steam Excange[/url]
+[*][url=http://steamtrades.com/]Steam Trades[/url]
+[*][url=http://reddit.com/r/SteamGameSwap]Reddit: Steam Game Swap[/url][/list]
+
+[u]Предметы TF2 & Dota 2[/u]
+[list][*][url=http://tf2outpost.com/]TF2 Outpost[/url]
+[*][url=http://tf2wh.com/]TF2 Warehouse[/url]
+[*][url=http://scrap.tf/]Scrap.tf[/url]
+[*][url=http://reddit.com/r/tf2trade]Reddit: TF2 Trade[/url]
+[*][url=http://dota2wh.com/]Dota 2 Warehouse[/url]
+[*][url=http://dota2lounge.com/]Dota 2 Longue.com[/url] НЕ ru!
+[*][url=http://reddit.com/r/dota2trade]Reddit: Dota 2 Trade[/url][/list]
+
+[h1]Лотереи и подарки[/h1]
+[list][*][url=http://steamgifts.com/]Steam Gifts[/url]
+[*][url=http://tf2r.com/]TF2 Raffle House[/url][/list]
